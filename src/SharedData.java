@@ -6,7 +6,7 @@ public class SharedData
 	private final int b;
 	//hello from oshri	
 	public SharedData(int[] array, int b) {
-		
+	//hello from deanza
 		this.array = array;
 		this.b = b;
 	}
